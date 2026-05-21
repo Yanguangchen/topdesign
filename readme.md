@@ -57,7 +57,7 @@ Each page includes:
 - Twitter card metadata
 - JSON-LD structured data
 
-The current base URL is `https://top-design.vercel.app`. If the site moves to a custom domain, update:
+The official base URL is `https://top-design.vercel.app/`. If the site moves to a custom domain, update:
 
 - Canonical links
 - `og:url`

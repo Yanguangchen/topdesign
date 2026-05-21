@@ -57,7 +57,7 @@ Core message:
 - Shared assets live in `Assets/`.
 - The site uses Google Fonts, Spline for the membership visual, Google Maps embed, WhatsApp links, and Botpress webchat.
 - SEO metadata, Open Graph metadata, Twitter card metadata, canonical URLs, and JSON-LD structured data are included on the HTML pages.
-- Current inferred deployed base URL: `https://top-design.vercel.app`. Replace this in canonical, OG/Twitter, and JSON-LD fields if a custom domain is connected.
+- Official deployed base URL: `https://top-design.vercel.app/`. Replace this in canonical, OG/Twitter, JSON-LD, sitemap, and robots fields if a custom domain is connected.
 
 ## Important Implementation Decisions
 
